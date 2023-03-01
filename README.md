@@ -12,7 +12,7 @@ Na przykład: WDJ L1 Jan Kowalski Lab1
 
 ### Literatura
 #### Podstawowa
-1. **Cay S. Horstmann, Gary Cornell, Java Podstawy, wyd. 11, Helionm 2019**
+1. **Cay S. Horstmann, Gary Cornell, Java Podstawy, wyd. 11, Helion, 2019**
 2. Krzysztof Barteczko, Java Programowanie praktyczne od podstaw, wydawnictwo naukowe PWN SA, 2014
 3. Herbert Schildt, Java. Kompendium programisty, Helionm 2005
 
