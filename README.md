@@ -21,9 +21,12 @@ Na przykład: WDJ L1 Jan Kowalski Lab1
 2.	Joshua Bloch, Java. Efektywne programowanie. Wydanie II, Helion 2009
 3.	Robert C. Martin, Czysty kod : podręcznik dobrego programisty, Helion 2014
 
+#### Dodatkowe źródła
+1. https://docs.oracle.com/en/java/javase/11/
+
 ### Tematy
 
-* [Podstawy programowania w JAVA](#)
+* [Podstawy programowania w JAVA](labs/01_wprowadzenie.md)
 * [Klasy, hermetyzacja, dziedziczenie, zarządzanie dostępem do składowych klasy](#)
 * [Konstruktory, mechanizm przeciążania metod](#)
 * [Mechanizm Wejścia/Wyjścia](#)
