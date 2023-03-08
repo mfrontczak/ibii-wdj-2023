@@ -34,7 +34,7 @@ Diagramy przedstawiające proces kompilacji i wykonania (interpretacji)
 
 ![Kompilacja](https://user-images.githubusercontent.com/77734214/223571589-03a0cb1d-50e4-4b7a-92ea-7ce84eccebbf.png)
 
-![Interpretacja](https://user-images.githubusercontent.com/77734214/223571622-bff705b8-48d3-4acf-8335-1027c85a6cf0.png)
+![Interpretacja](https://user-images.githubusercontent.com/77734214/223628705-22cd220a-5120-424f-ac2e-d75bf2326352.png)
 
 W celu poprawy wydajności i optymalizacji, kod bajtowy w Java jest wykonywany z wykorzystaniem metody [**JIT (Just-In-Time)**](https://pl.wikipedia.org/wiki/JIT_(informatyka)). Jest to metoda wykonywania programów polegająca na ich kompilacji do kodu maszynowego w momencie przed wykonaniem danego fragmentu kodu. 
 
